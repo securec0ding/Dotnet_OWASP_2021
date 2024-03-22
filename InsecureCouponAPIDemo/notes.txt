@@ -1,0 +1,9 @@
+└─$ curl -k -X POST https://localhost:7116/coupon/add -H 'Content-Type: application/json' --data '{"code": "SUMMER20","discount": 0.2}'
+
+
+┌──(client㉿kali)-[~/apps/dotnet/InsecureCouponAPIDemo]
+└─$ curl -k -X GET "https://localhost:7116/coupon/apply?code=SUMMER20&total=200"
+Discounted total after applying coupon 'SUMMER20': 160                                                                                                                                                                                                                                            
+┌──(client㉿kali)-[~/apps/dotnet/InsecureCouponAPIDemo]
+└─$ curl -k -X GET "https://localhost:7116/coupon/apply?code=SUMMER20&total=200"
+

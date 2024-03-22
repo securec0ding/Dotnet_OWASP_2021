@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G8rTxEkh8RfhMexwrpRHwXNICxs7pWuAgMXFxwpPHxI=",
+  "Source": "SecurityLoggingDemo",
+  "BasePath": "_content/SecurityLoggingDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

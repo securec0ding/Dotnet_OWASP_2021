@@ -1,0 +1,9 @@
+dotnet add package Microsoft.EntityFrameworkCore.SQLite
+
+/.dotnet/tools/dotnet-ef database update  
+
+
+                                                                                                                                                                                                                                            
+
+/.dotnet/tools/dotnet-ef migrations add InitialCreate
+

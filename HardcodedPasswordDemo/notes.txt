@@ -1,0 +1,4 @@
+curl -k -X POST https://localhost:7136/auth/login -H 'Content-Type: application/json' --data '{"password": "password123"}'
+Login successful                                                                                                                                                                                                                                            
+curl -k -X POST https://localhost:7136/auth/login -H 'Content-Type: application/json' --data '{"password": "password12"}' 
+Invalid credentials 

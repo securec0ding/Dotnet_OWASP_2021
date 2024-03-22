@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcQaXBPDBNpWU6SyCTh5rH8xp2eMunAlHv8G18X19loliIZh+FvexMaDHDt4K6LRCKToCk2FWrfsGVWF9DWZzA==",
+  "success": true,
+  "projectFilePath": "/home/client/apps/dotnet/commandi_queryparam/commandi_queryparam.csproj",
+  "expectedPackageFiles": [
+    "/home/client/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/client/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/client/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

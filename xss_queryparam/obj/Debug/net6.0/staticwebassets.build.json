@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rg0BLM2N3iFbZ/9Rh1my5fX4OxCySb35M2k5akrTJ2o=",
+  "Source": "xss_queryparam",
+  "BasePath": "_content/xss_queryparam",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

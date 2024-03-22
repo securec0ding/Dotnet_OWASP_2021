@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4TtM66KMX6/g2yOQlkTAPynqZnScSqHX5CNNPR4ZAuY=",
+  "Source": "SqlInjectionExample",
+  "BasePath": "_content/SqlInjectionExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

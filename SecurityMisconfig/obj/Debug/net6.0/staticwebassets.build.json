@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uth9V0r2sxDSUPF4lzJJAb7DN/l0yhOnM5/wX2BmoUc=",
+  "Source": "SecurityMisconfig",
+  "BasePath": "_content/SecurityMisconfig",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
